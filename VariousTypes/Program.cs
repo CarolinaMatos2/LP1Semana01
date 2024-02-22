@@ -8,11 +8,11 @@ namespace VariousTypes
         {
             //// Integer variables
             int idade = 42;                         
-            uint codigo = 0xDEADBEEu;
+            uint codigo = 0x126178u;
             ushort codigo2 = 0xBEE;
             ulong codigo3 = 0xABCD4567890UL;
             short neg = -1337;
-            long longo = 987_654_321_0L;
+            long longo = 9876543210L;
 
             // Displaying variable values
             Console.WriteLine(idade);
