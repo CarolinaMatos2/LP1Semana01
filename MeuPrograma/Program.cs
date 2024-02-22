@@ -1,10 +1,16 @@
-using System;
+﻿using System;
 
 namespace MeuPrograma
 {
-/// Text
+/// <summary>
+/// The program
+/// </summary>
     class Program
     {
+    /// <summary>
+    /// Text
+    /// </summary>
+    /// <param name="args"></param>
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
