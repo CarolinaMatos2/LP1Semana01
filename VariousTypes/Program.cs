@@ -22,6 +22,10 @@ namespace VariousTypes
             float ent = 6.223f;
             double unt = 16.890;
 
+            // Boolean variables
+            bool condition1 = true;
+            bool condition2 = 6 < 4;
+
             // Displaying variable values
             Console.WriteLine(i);
             Console.WriteLine(c);
@@ -37,6 +41,10 @@ namespace VariousTypes
             //Displaying real variables
             Console.WriteLine(ent);
             Console.WriteLine(unt);
+
+            // Displaying bool variable
+            Console.WriteLine(condition1);
+            Console.WriteLine(condition2);
 
         }    
     }
