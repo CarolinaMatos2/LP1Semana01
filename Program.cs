@@ -4,8 +4,23 @@ namespace ManyStrings
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args):
         {
+            //Ex6
+            double xx = 1.23456;
+            int ii = 19;
+
+            // Double
+            string a1 = $"Número real com duas casas decimais: {xx:f2}";
+            string a2 = $"Percentagem com uma casa decimal: {xx:p1}";
+            // Int
+            string b1 = $"Hexadecimal: {ii:x}";
+            string b2 = $"Moeda: {ii:c}";
+
+            Console.WriteLine(a1);
+            Console.WriteLine(a2);
+
+
            // Strings
            string message = "Hi \u26A1";
            string message2 = "I am a star \u2B50";
