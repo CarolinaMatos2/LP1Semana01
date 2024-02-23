@@ -18,6 +18,9 @@ namespace AskForInput
             float.Parse(numreal);
             Console.WriteLine($"Inseriste um número real: {numreal}!");
 
+            float soma = num + numreal;
+            Console.WriteLine($"A soma dos números é: {soma}!");
+
 
         }
     }
