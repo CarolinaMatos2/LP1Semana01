@@ -8,15 +8,15 @@ namespace VariousTypes
         {
             // Integer variables
             int i = 42;                         
-            uint c = 0x126178u;
-            ushort c2 = 0x65635;
-            ulong c3 = 0x9876543210UL;
+            uint c = 126178;
+            ushort c2 = 65034;
+            ulong c3 = 76543210;
             short neg = -1637;
-            long l = 9876543210L;
+            long l = 9876543210;
 
             // Char variables
-            char cora = '\u1F338';
-            char cav = '\u12620';
+            char poison = '\u2697';
+            char head = '\u2620';
 
             // Displaying variable values
             Console.WriteLine(i);
@@ -27,8 +27,8 @@ namespace VariousTypes
             Console.WriteLine(l);
 
             // Displaying char values
-            Console.WriteLine(cora);
-            Console.WriteLine(cav);
+            Console.WriteLine(poison);
+            Console.WriteLine(head);
 
         }    
     }
