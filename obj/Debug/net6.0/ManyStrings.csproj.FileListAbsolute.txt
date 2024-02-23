@@ -1,0 +1,14 @@
+C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.AssemblyInfoInputs.cache
+C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.AssemblyInfo.cs
+C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.csproj.CoreCompileInputs.cache
+C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\bin\Debug\net6.0\ManyStrings.exe
+C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\bin\Debug\net6.0\ManyStrings.deps.json
+C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\bin\Debug\net6.0\ManyStrings.runtimeconfig.json
+C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\bin\Debug\net6.0\ManyStrings.dll
+C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\bin\Debug\net6.0\ManyStrings.pdb
+C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.dll
+C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\refint\ManyStrings.dll
+C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.pdb
+C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.genruntimeconfig.cache
+C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ref\ManyStrings.dll
