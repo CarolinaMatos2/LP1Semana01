@@ -16,11 +16,14 @@ namespace ManyStrings
            Console.WriteLine(message3);
 
            // String type variables
+           int xis = 1
            string um = "ab" + 6;
-           string dois = "c" + x;
+           string two = "c" * x;
+           string tree = "mn" - 4;
 
            Console.WriteLine(um);
-           Console.WriteLine(dois);
+           Console.WriteLine(two);
+           Console.WriteLine(tree);
         }
     }
 }
