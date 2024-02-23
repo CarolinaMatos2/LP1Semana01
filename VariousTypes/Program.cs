@@ -18,6 +18,10 @@ namespace VariousTypes
             char poison = '\u2697';
             char head = '\u2620';
 
+            // Real variables
+            float ent = 6.223f;
+            double unt = 16.890;
+
             // Displaying variable values
             Console.WriteLine(i);
             Console.WriteLine(c);
@@ -29,6 +33,10 @@ namespace VariousTypes
             // Displaying char values
             Console.WriteLine(poison);
             Console.WriteLine(head);
+
+            //Displaying real variables
+            Console.WriteLine(ent);
+            Console.WriteLine(unt);
 
         }    
     }
