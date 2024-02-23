@@ -12,3 +12,4 @@ C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\obj\Debug\net
 C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.pdb
 C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.genruntimeconfig.cache
 C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ref\ManyStrings.dll
+C:\Users\fonse\OneDrive\Desktop\PastaDeLP1\LP1Semana01\ManyStrings\obj\Debug\net6.0\ManyStrings.sourcelink.json

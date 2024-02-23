@@ -14,6 +14,13 @@ namespace ManyStrings
            Console.WriteLine(message);
            Console.WriteLine(message2);
            Console.WriteLine(message3);
+
+           // String type variables
+           string um = "ab" + 6;
+           string dois = "c" + x;
+
+           Console.WriteLine(um);
+           Console.WriteLine(dois);
         }
     }
 }
