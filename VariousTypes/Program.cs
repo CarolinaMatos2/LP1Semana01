@@ -16,7 +16,7 @@ namespace VariousTypes
 
             // Char variables
             char cora = '\u1F338';
-            char cav = '\u2620';
+            char cav = '\u12620';
 
             // Displaying variable values
             Console.WriteLine(i);
