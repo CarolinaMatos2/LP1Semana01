@@ -6,7 +6,7 @@ namespace AskForInput
     {
         static void Main(string[] args)
         {
-            // Pedir ao utilizador para inserir um número inteiro
+            // Pedir ao utilizador para inserir um número inteiro.
             Console.WriteLine("Por favor, insira um número inteiro:");
             string enter = Console.ReadLine();
             int num = Convert.ToInt32(enter);
