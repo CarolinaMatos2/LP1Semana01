@@ -23,7 +23,7 @@ namespace VariousTypes
             double unt = 16.890;
 
             // Boolean variables
-            bool condition1 = true;
+            bool condition1 = 8 > 1;
             bool condition2 = 6 < 4;
 
             // Displaying variable values
